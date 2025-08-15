@@ -1,5 +1,5 @@
 {
-  "name": "next-logger",
+  "name": "next-logger-canary",
   "version": "5.0.1",
   "description": "JSON logging patcher for Next.js",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sainsburys-tech/next-logger.git"
+    "url": "git+https://github.com/dustinsoftware/next-logger.git"
   },
   "keywords": [
     "next.js",
@@ -22,9 +22,9 @@
   "author": "Chris Atkin <christopher.atkin@sainsburys.co.uk>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sainsburys-tech/next-logger/issues"
+    "url": "https://github.com/dustinsoftware/next-logger/issues"
   },
-  "homepage": "https://github.com/sainsburys-tech/next-logger#readme",
+  "homepage": "https://github.com/dustinsoftware/next-logger#readme",
   "peerDependencies": {
     "next": "*",
     "pino": "^8.0.0 || ^9.0.0",
